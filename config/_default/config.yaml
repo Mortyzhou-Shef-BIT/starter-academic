@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Morty Zhou # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://zhouyhslp.netlify.app/' # Website URL
+copyright: 'copyright = "&copy; by Yanghao Zhou, 2021"' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

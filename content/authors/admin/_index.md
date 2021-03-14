@@ -1,4 +1,6 @@
 ---
+# Display name
+name: Morty Zhou
 
 # Username (this should match the folder name)
 authors:

@@ -89,7 +89,7 @@ I am Pre-Ph.D. candidate with [School of Computer Science & Technology, Beijing 
 
 My research interests are mainly focused on Speech Technology and Multimodal Learning. (especially Speaker Verification & Diarization and Speaker Embedding) with machine learning and deep learning approaches.
 
-#My Ph.D. supervisor is [professor Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
+# My Ph.D. supervisor is [professor Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
 ---
 # Display name
 name: Morty Zhou

@@ -20,26 +20,25 @@ organizations:
   url: "https://www.sheffield.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Speech Technology and Multimodal Learning.
+bio: My research interests include Speech Technology, Natural Language Processing and Multimodal Learning.
 
 interests:
-- Speaker Verification & Diarization
-- Speaker Embedding
-- Language Model
-- Multimodal Representation
+- Voice conversion
+- Text-to-speech synthesis
+- Multimodal Learning
 
 education:
   courses:
   - course: Pre-Ph.D. Student in Speech and Language Technology
     institution: Unknown
-    year: 
-  - course: MSc in Computer Science with Speech and Language Processing
+    year: 2021 - 2025
+  - course: MSc in Computer Science with Speech and Language Processing (Supervised by Prof Heidi Christensen)
     institution: SpandH Group at The University of Sheffield
     year: 2020 - 2021
-  - course: Remote Research Intern (Supervised by Prof Thomas Hain, Dr Mauro Nicolao and Dr ‪Md Asif Jalal)
+  - course: Remote Research Intern (Supervised by Prof Thomas Hain, Dr Mauro Nicolao , Dr Qiang Huang and Dr ‪Md Asif Jalal)
     institution: SpandH Group at The University of Sheffield (Voicebase Center)
     year: 2020 - 2021
-  - course: Research Staff 
+  - course: Research Staff (Supervised by Prof Xianling Mao, Prof Heyan Huang)
     institution: Beijing Institute of Technology
     year: 2020 - 2021
   - course: Teaching assistant
@@ -87,6 +86,6 @@ user_groups:
 
 I am Pre-Ph.D. candidate with [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
 
-My research interests are mainly focused on Speech Technology and Multimodal Learning. (especially Speaker Verification & Diarization and Speaker Embedding) with machine learning and deep learning approaches.
+My research interests are mainly focused on Speech Technology and Multimodal Learning. (especially Voice conversion and Speech Synthesis) with machine learning and deep learning approaches.
 
 #My Ph.D. supervisor is [professor Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).

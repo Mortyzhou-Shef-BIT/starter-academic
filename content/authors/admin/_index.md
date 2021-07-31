@@ -85,6 +85,6 @@ user_groups:
 - Visitors
 ---
 
-I am Pre-Ph.D. candidate with [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
-
+I am Ph.D. candidate with [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
+I am looking forward to collaborating with researchers who were working in Voice conversion and TTS.
 My research interests are mainly focused on Speech Technology and Multimodal Learning. (especially Voice conversion and Speech Synthesis) with deep learning approaches. Thanks for the guidance by Dr Mingjie Chen, Dr Yanpei Shi, Dr Qiang Huang and Dr ‪Md Asif Jalalin [SpandH Group at The University of Sheffield](https://www.sheffield.ac.uk/dcs/research/groups/spandh)

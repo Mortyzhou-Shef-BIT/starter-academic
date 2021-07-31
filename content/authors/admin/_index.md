@@ -36,9 +36,9 @@ education:
   - course: MSc in Computer Science with Speech and Language Processing
     institution: SpandH Group at The University of Sheffield
     year: 2020 - 2021
-  - course: Remote Research Intern (Supervised by Prof Thomas Hain, Dr Mauro Nicolao. Working with Dr Qiang Huang and Dr ‪Md Asif Jalal)
-    institution: [Voicebase Center](https://www.voicebase.com/speech-analytics-research-at-university-of-sheffield/) with MINI Group at The University of Sheffield
-    year: 2020 - 2021
+  - course: Remote Research Intern (Supervised by Prof Thomas Hain, Dr Mauro Nicolao.)
+    institution: Voicebase Center with MINI Group at The University of Sheffield
+    year: 2014 - 2018
   - course: Research Staff 
     institution: Beijing Institute of Technology
     year: 2020 - 2021
@@ -87,4 +87,4 @@ user_groups:
 
 I am Pre-Ph.D. candidate with [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
 
-My research interests are mainly focused on Speech Technology and Multimodal Learning. (especially Voice conversion and Speech Synthesis) with deep learning approaches. Thanks for the guidance by Dr Mingjie Chen and Dr Yanpei Shi in [SpandH Group at The University of Sheffield](https://www.sheffield.ac.uk/dcs/research/groups/spandh)
+My research interests are mainly focused on Speech Technology and Multimodal Learning. (especially Voice conversion and Speech Synthesis) with deep learning approaches. Thanks for the guidance by Dr Mingjie Chen, Dr Yanpei Shi, Dr Qiang Huang and Dr ‪Md Asif Jalalin [SpandH Group at The University of Sheffield](https://www.sheffield.ac.uk/dcs/research/groups/spandh)

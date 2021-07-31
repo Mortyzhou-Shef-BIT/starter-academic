@@ -36,9 +36,6 @@ education:
   - course: MSc in Computer Science with Speech and Language Processing
     institution: SpandH Group at The University of Sheffield
     year: 2020 - 2021
-  - course: Co-researcher
-    institution: SpandH Group at The University of Sheffield
-    year: 2021 - Ongoing
   - course: Remote Research Intern (Supervised by Prof Thomas Hain, Dr Mauro Nicolao. Working with Dr Qiang Huang and Dr ‪Md Asif Jalal)
     institution: [Voicebase Center](https://www.voicebase.com/speech-analytics-research-at-university-of-sheffield/) with MINI Group at The University of Sheffield
     year: 2020 - 2021

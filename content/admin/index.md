@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Pre-Ph.D. Student in Speech and Language Technology
+role: Ph.D. Student in Speech and Language Technology
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://www.sheffield.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Speech Technology, Natural Language Processing and Multimodal Learning.
+bio: My research interests include Voice conversion and other Speech technologies based on Generative model, Self-supervised Learning and Multimodal learning.
 
 interests:
 - Voice conversion
@@ -29,13 +29,13 @@ interests:
 
 education:
   courses:
-  - course: Pre-Ph.D. Student in Speech and Language Technology
-    institution: Unknown
+  - course: Ph.D. Student in Speech and Language Technology
+    institution: DCS in Beijing Institute of Technology
     year: 2021 - 2025
   - course: MSc in Computer Science with Speech and Language Processing (Supervised by Prof Heidi Christensen)
     institution: SpandH Group at The University of Sheffield
     year: 2020 - 2021
-  - course: Remote Research Intern (Supervised by Prof Thomas Hain, Dr Mauro Nicolao , Dr Qiang Huang and Dr ‪Md Asif Jalal)
+  - course: Remote Research Intern (Supervised by Prof Thomas Hain, Dr Mauro Nicolao. Dr Qiang Huang and Dr ‪Md Asif Jalal)
     institution: SpandH Group at The University of Sheffield (Voicebase Center)
     year: 2020 - 2021
   - course: Research Staff (Supervised by Prof Xianling Mao, Prof Heyan Huang)
@@ -84,6 +84,6 @@ user_groups:
 - Visitors
 ---
 
-I am Pre-Ph.D. candidate with [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
+I am Ph.D. candidate in [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
 
-My research interests are mainly focused on Speech Technology and Multimodal Learning. (especially Voice conversion and Speech Synthesis) with machine learning and deep learning approaches.
+My research interests are mainly focused on Speech Technology and Multimodal Learning. (especially Voice conversion and Speech Synthesis) with deep learning approaches. Thanks for the guidance by Dr Mingjie Chen and Dr Yanpei Shi in [SpandH Group at The University of Sheffield](https://www.sheffield.ac.uk/dcs/research/groups/spandh)
